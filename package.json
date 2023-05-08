@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Ramón Ruiz <ramonruizrc@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
